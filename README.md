@@ -1,4 +1,4 @@
-# Hi, I'm Bhavneet Kaur 👋
+# Hi, I am Bhavneet Kaur 
 
 **Computer Engineering Graduate** · York University, Lassonde School of Engineering (B.Eng. Specialized Honours, 2025)
 

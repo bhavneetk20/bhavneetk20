@@ -4,14 +4,16 @@
 
 I build at the intersection of **embedded systems, AI, and full-stack development** — from FPGA digital design and Arduino mechatronics to computer-vision robotics and AI chatbots.
 
-💼 **Currently:** AI/ML Intern @ **WineSpeak** — building AI agent evaluation systems: LLM-as-a-Judge response grading, automated test-case generation from knowledge-base documents, and real-time QA dashboards for production chatbot agents.
+ **Currently:** AI/ML Intern @ **WineSpeak.ai** — building AI agent evaluation systems: LLM-as-a-Judge response grading, automated test-case generation from knowledge-base documents, and real-time QA dashboards for production chatbot agents.
 
 📍 Toronto, ON · Open to opportunities across Canada
-🌐 [bhavneetkaur.com](https://bhavneetkaur.com) · 📧 bhav.kaur2002@gmail.com · [LinkedIn](https://www.linkedin.com/in/bhavneetkaur20)
+🌐 [bhavneetkaur.com](https://bhavneetkaur.com) 
+📧 bhav.kaur2002@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/bhavneetkaur20)
 
 ---
 
-## 🔧 Skills
+##  Skills
 
 | Area | Technologies |
 |---|---|
@@ -24,7 +26,7 @@ I build at the intersection of **embedded systems, AI, and full-stack developmen
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|

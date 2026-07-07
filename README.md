@@ -6,7 +6,7 @@ I build at the intersection of **embedded systems, AI, and full-stack developmen
 
  **Currently:** AI/ML Intern @ **WineSpeak.ai** — building AI agent evaluation systems: LLM-as-a-Judge response grading, automated test-case generation from knowledge-base documents, and real-time QA dashboards for production chatbot agents.
 
-📍 Toronto, ON · Open to opportunities across Canada
+📍 Toronto, ON · Open to opportunities across Canada ·
 🌐 [bhavneetkaur.com](https://bhavneetkaur.com) ·
 📧 bhav.kaur2002@gmail.com ·
 [LinkedIn](https://www.linkedin.com/in/bhavneetkaur20)
